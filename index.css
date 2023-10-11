@@ -7,12 +7,14 @@ main{
     height:400px;
     width:200px;
     border:2px rgb(92, 91, 91) solid;
-    border-radius: 5px;    
+    border-radius: 5px;  
+    background-color: black; 
 }
 #display{
     width:85%;
     margin:10px;
     height:30px;
+    background-color: dimgrey;
     }
 .button{
     width:45px;
